@@ -2,6 +2,8 @@
 
 This project implements real-time audio processing using a Basys-3 FPGA board and a Pmod I2S2 digital audio interface. The audio processing is performed using low-pass, high-pass, band-pass, and moving average FIR filters.
 
+Video Demonstration: [Real-time Audio Processing via FIR Filters on Basys-3 FPGA](https://youtu.be/10Z_WsDO_uE)
+
 ### Hardware Requirements
 
 - Basys-3 FPGA board
