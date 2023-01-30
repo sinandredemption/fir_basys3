@@ -7,7 +7,7 @@ This project implements real-time audio processing using a Basys-3 FPGA board an
 - Basys-3 FPGA board
 - [Pmod I2S2](https://digilent.com/shop/pmod-i2s2-stereo-audio-input-and-output/) digital audio interface
 
-Software Requirements
+### Software Requirements
 
 - GNU Octave or MATLAB for generating filter coefficients using the `filter_gen.m` script.
 - Vivado Design Suite for synthesizing and implementing the FPGA design.
