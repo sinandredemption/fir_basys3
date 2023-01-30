@@ -36,3 +36,8 @@ The performance of the FIR filters may be limited by the kernel length and the n
 ### Conclusion
 
 This project demonstrates the ability to implement real-time audio processing using FIR filters on a Basys-3 FPGA board and a Pmod I2S2 digital audio interface. The provided files and instructions should provide a starting point for further experimentation and customization of the audio processing capabilities.
+
+### Relevant Links
+- [Digilent/Pmod-I2S2](https://github.com/Digilent/Pmod-I2S2) GitHub Project
+- [Practical FIR Filter Design](https://www.allaboutcircuits.com/technical-articles/design-of-fir-filters-design-octave-matlab/)
+- My favorite [AXI Stream Tutorial](https://www.youtube.com/watch?v=j50D5rek1sU)
